@@ -19,8 +19,9 @@ export default function PricingPage() {
   return (
     <Background>
       <Meta />
-      <Hero />
-      <Footer />
+      {/* <Hero /> */}
+      <img src="/images/menu1.png" alt="hero" />
+      {/* <Footer /> */}
     </Background>
   );
 }
